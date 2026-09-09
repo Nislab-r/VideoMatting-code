@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+workspace/
+assets/
+runtime/
+logs/
+.work/
+*.sqlite*
+*.blend*
+*.fbx
+*.tar*
+*.mp4
+composites*/

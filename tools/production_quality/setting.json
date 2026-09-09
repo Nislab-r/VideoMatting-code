@@ -1,0 +1,23 @@
+{
+  "id": "production_2k_round01_garment_v1_20260908",
+  "selected_round": "round_01_v4_2",
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "sampling": {"samples": 64, "min_samples": 16, "threshold": 0.01, "denoising": true},
+  "quality_options": {},
+  "pixel_filter_width": 0.75,
+  "subdivision_cap": 2,
+  "preview_resolution": [960, 540],
+  "composite_jpeg_qscale": 3,
+  "output_directory": "composites_2k_round01_garment_v1",
+  "garment_guard": {
+    "version": "garment_guard_v1",
+    "enabled": true,
+    "unknown_policy": "needs_review",
+    "intersection_policy": "reject_any_surface_crossing",
+    "all_frames": true,
+    "max_rotation_degrees": 50,
+    "max_frame_rotation_degrees": 8
+  },
+  "selection_reason": "Later rounds show only modest or subtle differences, without a clear overall hair-quality gain. Round 1 is the lowest-cost visually comparable verified profile. This is a five-subject selection, not universal superiority."
+}

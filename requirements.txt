@@ -1,0 +1,3 @@
+# Core host tools use the Python standard library (Python >= 3.10).
+# Install Blender 5.0.1, FFmpeg/ffprobe, and zstd separately.
+# Blender supplies bpy and mathutils; do not install unrelated PyPI bpy builds.

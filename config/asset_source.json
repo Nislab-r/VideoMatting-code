@@ -1,0 +1,11 @@
+{
+  "repo_id": "Renz-7/VideoMatting-Assets",
+  "repo_type": "dataset",
+  "repo_url": "https://huggingface.co/datasets/Renz-7/VideoMatting-Assets",
+  "upload_status": "in_progress",
+  "manifest_sha256": {
+    "manifests/subjects.jsonl": "5056fc7e482cce096b9cec31a63e51021af80130cb1b0eef9320c7738aa65dc4",
+    "manifests/files.jsonl": "f95b2f23c741edfb4984a6f4f1bac1ffd3847b2072553d9afc4ea575ec426d95",
+    "manifests/archives.jsonl": "c9cb7569c177e79cde443a0c88cc8d82a3dbb06fb7ba5ec1663b99048e4b874f"
+  }
+}
